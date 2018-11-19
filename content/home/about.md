@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,38 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Bioinformatics",
+    "Genomics",
+    "Machine Learning",
+    "Computer Science",
+    "R and Bioconductor",
+    "Gene Regulatory Networks"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Biomedical Sciences"
+  institution = "The University of Texas MD Anderson Cancer Center"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Computer Science"
+  institution = "Federal University of Pernambuco"
+  year = 2006
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Computer Science (Valedictorian)"
+  institution = "Federal University of Santa Catarina"
+  year = 2004
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Full Computational Scientist at the Jackson Laboratory. I joined [Jacques Banchereau's lab](https://www.jax.org/research-and-faculty/research-labs/the-banchereau-lab) at the Jackson Laboratory to help developing a groundbreaking research program aimed at the identification of cancer isoforms using hybrid-capture long-read sequencing. Here, I am leading the development of a computational pipeline to analyze hybrid-capture long-read sequencing data combined with RNA-seq data to discover RNA-based neoantigens. Our premise is that splicing aberration in cancer generates RNA-based neoantigens that can be exploited for immunotherapy.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have extensive expertise in the analysis of next-generation sequencing data sets, including WGS, Exome-seq, RNA-seq, ATAC-seq and Pacbio long read SMRT-seq. 
+
+I pursued interdisciplinary training in Computer Science and Biology, during which I acquired a solid skill set in data science and machine learning, as well as a working knowledge of several molecular biology techniques.
+
+I have a passion for analyzing big data, in particular in the field of genomics, using R and Bioconductor. 
