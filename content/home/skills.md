@@ -21,22 +21,26 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
+
+
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Genomics"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Statistics and Machine Learning"
+  # description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R for Big Data"
+  description = "Bioconductor | R package development | Tidyverse"  
+  
+
+
 
 +++
