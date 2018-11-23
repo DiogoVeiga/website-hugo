@@ -42,4 +42,4 @@ I am currently a Full Computational Scientist at the Jackson Laboratory. I joine
 
 I have extensive expertise in the analysis of **next-generation sequencing**, including WGS, Exome-seq, RNA-seq, ATAC-seq and Pacbio long read SMRT-seq. 
 
-I have a passion for analyzing big data, in particular in the field of genomics, using R and [Bioconductor](https://bioconductor.org/). 
+I have a passion for analyzing big data, in particular in the field of genomics, using [R](https://www.r-project.org/), [Bioconductor](https://bioconductor.org/), and [Tidyverse](https://www.tidyverse.org/). 
