@@ -1,5 +1,5 @@
 +++
-title = "Linking the transcriptional profiles and the physiological states of {Mycobacterium} tuberculosis during an extended intracellular infection"
+title = "Linking the transcriptional profiles and the physiological states of Mycobacterium tuberculosis during an extended intracellular infection"
 date = 2012-06-21T11:45:16-05:00
 draft = false
 
@@ -26,7 +26,7 @@ abstract = "Intracellular pathogens such as Mycobacterium tuberculosis have evol
 abstract_short = " "
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -70,9 +70,10 @@ doi = "10.1371/journal.ppat.1002769"
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Transcriptional Regulatory Network response analysis revealed linked genetic networks whereby M. tuberculosis coordinates global gene expression during intracellular survival."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  #focal_point = "Center"
+  #preview_only = false
 +++

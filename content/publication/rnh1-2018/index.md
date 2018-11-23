@@ -26,7 +26,7 @@ abstract = "Ribosomal proteins (RP) regulate specific gene expression by selecti
 abstract_short = " "
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -70,9 +70,10 @@ doi = "10.1172/JCI94956"
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Regulator enrichment analysis identified loss of essential erythropoiesis regulators in the Rnh1 knockout mice."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
+  preview_only = false
 +++

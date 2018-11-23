@@ -71,9 +71,10 @@ doi = "10.1172/JCI86489"
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Pre-leukemic stem cells (pre-LSCs) are diluted in the tumor bulk during T-ALL progression (left). Novel small-molecules specifically targeting pre-leukemic stem cells (right)."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
+  preview_only = false
 +++

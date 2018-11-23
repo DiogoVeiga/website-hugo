@@ -15,14 +15,9 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+## 2018
+- [Data Carpentry Genomics](https://thejacksonlaboratory.github.io/2018-11-06-jax/), The Jackson Laboratory for Genomic Medicine, Farmington, USA.
 
-I am a teaching instructor for the following courses at University X:
+- [R for Reproducible Scientific Analysis](https://smcclatchy.github.io/2018-10-15-r-ct/), Uconn Health, Center for Quantitative Medicine, Farmington, USA.
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+
