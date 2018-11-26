@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "F1000 Prime recommended", url = "https://f1000.com/prime/732609474"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1172/JCI94956"

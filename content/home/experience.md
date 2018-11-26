@@ -37,7 +37,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Bioinformatics Postdoctoral Fellow"
-  company = " Institute for Immunology and Cancer Research, University of Montreal"
+  company = "Institute for Immunology and Cancer Research, University of Montreal"
   company_url = ""
   location = "Montreal, Canada"
   date_start = "2012-10-01"
@@ -54,7 +54,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Fulbrigth Doctoral Fellow"
+  title = "Fulbright Doctoral Fellow"
   company = "University of Texas MD Anderson Cancer Center"
   company_url = ""
   location = "Houston, USA"

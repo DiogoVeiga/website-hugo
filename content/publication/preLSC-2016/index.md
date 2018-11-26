@@ -62,7 +62,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Pubmed", url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5127686/"}]
+ url_custom = [{name = "Eureka Alert", url = "https://www.eurekalert.org/pub_releases/2016-10/jj-sdt103016.php"},
+ {name = "eCancer News", url = "https://ecancer.org/news/10399-screening-drugs-to-kill-cancer-cells-in-their-safe-spaces.php"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1172/JCI86489"
